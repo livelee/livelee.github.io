@@ -1,0 +1,23 @@
+{
+    "name": "livelee.github.io",
+    "version": "1.0.0",
+    "description": "使用vuejs搭建个人博客\u001b[D\u001b[D\u001b[D静态博客",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/livelee/livelee.github.io.git"
+    },
+    "keywords": [
+        "blog",
+        "vue"
+    ],
+    "author": "lee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/livelee/livelee.github.io/issues"
+    },
+    "homepage": "https://github.com/livelee/livelee.github.io#readme"
+}
